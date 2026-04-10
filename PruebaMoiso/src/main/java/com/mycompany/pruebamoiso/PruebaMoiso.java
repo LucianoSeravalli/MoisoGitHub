@@ -9,7 +9,7 @@ public class PruebaMoiso {
     //Hola
     
   public void nada() {
-      
+      //Este es de nano
   }
     
 
@@ -17,5 +17,6 @@ public class PruebaMoiso {
 
     public voidMethyod(){
         String prueba = "algo";
+        //Este es de moi
     }
 }
