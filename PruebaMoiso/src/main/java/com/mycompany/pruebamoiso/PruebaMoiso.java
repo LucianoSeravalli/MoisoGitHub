@@ -15,8 +15,10 @@ public class PruebaMoiso {
 
     // probando git
 
-    public voidMethyod(){
+    public static void method(){
         String prueba = "algo";
         //Este es de moi
     }
+    
+    //Nano2
 }
